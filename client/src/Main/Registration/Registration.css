@@ -1,0 +1,47 @@
+.mainDivReg {
+  height: 500px;
+  width: 100%;
+  display: inline-flex;
+  justify-content: center;
+}
+
+.secondMainDivReg {
+  margin-top: 140px;
+  border-radius: 10px;
+  width: 40%;
+  display: inline-block;
+  background-color: rgba(255, 255, 255, 0.822);
+  justify-content: center;
+  height: 250px;
+}
+
+.RegTitle2 {
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  display: inline-block;
+  margin-left: 38%;
+  width: 100%;
+}
+
+.inputRegUserName {
+  margin-bottom: 7px;
+  margin-left: 35%;
+}
+
+.inputRegFirstName {
+  margin-bottom: 7px;
+  margin-left: 35%;
+}
+
+.inputRegLastName {
+  margin-bottom: 7px;
+  margin-left: 35%;
+}
+
+.inputRegPassword {
+  margin-left: 35%;
+}
+
+.RegbuttonRegister {
+  margin-top: 20px;
+  margin-left: 44%;
+}

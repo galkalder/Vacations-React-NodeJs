@@ -1,0 +1,26 @@
+.layout {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.Header {
+  display: inline-flex;
+  margin-left: 1%;
+  width: 98%;
+  height: 120px;
+  background-color: whitesmoke;
+  border-radius: 5px;
+}
+
+.Main {
+  display: inline-block;
+  background-size: 100%;
+  width: 100%;
+  height: auto;
+  flex: 0.8;
+  background-image: url("../images/mainBackground.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}

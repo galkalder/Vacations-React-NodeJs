@@ -1,0 +1,39 @@
+.mainDivLogin {
+  height: 500px;
+  width: 100%;
+  display: inline-flex;
+  justify-content: center;
+}
+
+.secondMainDivLogin {
+  margin-top: 140px;
+  border-radius: 10px;
+  width: 40%;
+  display: inline-block;
+  background-color: rgba(255, 255, 255, 0.822);
+  justify-content: center;
+  text-align: center;
+  height: 200px;
+}
+
+.Title2 {
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  display: inline-block;
+  width: 100%;
+}
+
+.inputUserName {
+  justify-content: center;
+}
+
+.inputPassword {
+  margin-top: 7px;
+}
+
+.buttonRegister {
+  margin-top: 20px;
+}
+
+.buttonLogin2 {
+  margin-top: 7px;
+}

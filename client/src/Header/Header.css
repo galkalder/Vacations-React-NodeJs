@@ -1,0 +1,60 @@
+.TitileDiv {
+  margin-left: 36%;
+}
+
+.Title1 {
+  font-weight: bold;
+  font-size: 40px;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  width: 440px;
+}
+
+.userNameLogIn {
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  position: absolute;
+  right: 80px;
+  direction: rtl;
+  width: 150;
+  margin-top: 5px;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.LoginDiv {
+  width: 50px;
+  margin-top: 5px;
+}
+
+.buttonLogin {
+  position: absolute;
+  right: 18px;
+  font-size: 17px;
+}
+
+.buttonLogout {
+  position: absolute;
+  right: 18px;
+  padding: 5px 10px;
+  color: white;
+  cursor: pointer;
+  background-color: rgba(0, 0, 0, 0.856);
+  border-radius: 7px;
+}
+
+.loginPage {
+  position: absolute;
+  right: 30px;
+  top: 40px;
+}
+
+.VacationPage {
+  position: absolute;
+  right: 75px;
+  top: 40px;
+}
+
+.RegistrationPage {
+  position: absolute;
+  right: 140px;
+  top: 40px;
+}

@@ -1,0 +1,39 @@
+.vacationsGraph {
+  width: 100%;
+}
+
+.mainGraphDiv {
+  text-align: center;
+}
+
+.graph {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+.permission {
+  font-size: 25px;
+  margin-top: 30px;
+  color: whitesmoke;
+  font-weight: bold;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.canvasContainer {
+  justify-content: center;
+  width: 70vw;
+  height: 60vh;
+}
+
+.MainVacationLink {
+  width: auto;
+  height: 30px;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  margin-left: 10px;
+  background-color: white;
+  border: 0px;
+  border-radius: 5px;
+  color: green;
+}

@@ -1,0 +1,74 @@
+.vacationDiv {
+  display: inline-block;
+  width: 30%;
+  height: 275px;
+  background-color: rgba(255, 255, 255, 0.822);
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-top: 40px;
+}
+
+.VacationEditDiv {
+  margin-left: 5px;
+}
+
+.vacationDivDescription {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.vacationDivButtonFollow {
+  position: absolute;
+  margin-left: 320px;
+}
+
+.vacationButtonFollow {
+  border-radius: 30px;
+  font-size: 14;
+  font-weight: bold;
+  width: 75px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  background: #3b5998;
+  color: white;
+}
+
+.vacationButtonFollow:hover {
+  opacity: 0.7;
+}
+
+.vactionDivPrice {
+  margin-bottom: 3px;
+}
+
+.divVacationImg {
+  text-align: center;
+  max-width: 100%;
+  height: 60%;
+}
+
+.vactionImg {
+  width: 61%;
+  height: 100%;
+  border-radius: 35%;
+}
+
+.vacationDivDates {
+  position: absolute;
+}
+
+.editButtonImg {
+  margin-top: 2px;
+  width: 5%;
+}
+
+.XButtonImg {
+  margin-top: 2px;
+  width: 20px;
+}
+
+.editAndXDiv {
+  display: flex;
+}
